@@ -25,7 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="![image](https://github.com/user-attachments/assets/4a5eda6a-334c-4364-81da-fc5cc514a4b6)
+" height="30" alt="csharp logo"  />
 </div>
 
 ###
